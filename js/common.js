@@ -19,6 +19,6 @@ $(function(){
 	var w3=$(".d1 h2").width();
 	$(".d1 ul,.d2 ul").css("marginLeft",w3+w2*0.04+"px");
 	var w4=$(".d1 span").width();
-	$(".d1 span,.d2 span").css("marginLeft",w3+h2/2+w2*0.02+w4+"px");
+	$(".d1 span,.d2 span").css("marginLeft",w3+h2+w2*0.02+w4+"px");
 });
 
