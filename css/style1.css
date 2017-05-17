@@ -38,7 +38,7 @@ img{
 #hotgame{
 	width: 40%;
 	height: 100%;
-	font-size:2rem;
+	font-size:1rem;
 	display: block;
 	text-align: center;
 	color:#fff;
@@ -67,7 +67,7 @@ img{
 	display: inline-block;
 	position: absolute;
 	top:10%;
-	font-size: 1.7rem;
+	font-size: 0.85rem;
 	color:#333;
 }
 .d1 ul,.d2 ul {
@@ -83,7 +83,7 @@ img{
 }
 .d1 span,.d2 span {
 	color: #f5ce4b;
-	font-size: 1.4rem;
+	font-size: 0.7rem;
 	position: absolute;
 	top: 10%;
 }
@@ -91,7 +91,7 @@ img{
 	display: inline-block;
 	position: absolute;
 	top:40%;
-	font-size: 1.3rem;
+	font-size: 0.65rem;
 	color: #666;
 }
 .d1 button,.d2 button{
@@ -102,6 +102,6 @@ img{
 	right:4%;
 	bottom:8%;
 	color:#fff;
-	font-size: 1.4rem;
+	font-size: 0.7rem;
 	border-radius: 6px;
 }
